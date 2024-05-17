@@ -1,0 +1,105 @@
+5/15/2024 12:15:16 AM ## ----------nhanh log in ----------
+5/15/2024 12:17:02 AM ## ----------nhanh log in ----------
+5/15/2024 12:19:19 AM ## ----------nhanh log in ----------
+5/15/2024 12:39:48 AM ## ----------nhanh log in ----------
+5/15/2024 12:40:49 AM ## ----------nhanh log in ----------
+5/15/2024 12:57:52 AM ## ----------nhanh log in ----------
+5/15/2024 1:03:03 AM ## ----------nhanh log in ----------
+5/15/2024 1:05:31 AM ## ----------nhanh log in ----------
+5/15/2024 1:06:26 AM ## ----------nhanh log in ----------
+5/15/2024 1:12:02 AM ## ----------nhanh log in ----------
+5/15/2024 1:19:57 AM ## ----------nhanh log in ----------
+5/15/2024 1:20:41 AM ## ----------nhanh log in ----------
+5/15/2024 1:22:41 AM ## ----------nhanh log in ----------
+5/15/2024 1:22:52 AM ## add new Account: s
+5/15/2024 1:22:57 AM ## delete Account: s
+5/15/2024 1:29:02 AM ## ----------nhanh log in ----------
+5/15/2024 1:29:09 AM ## set password for Account: tan
+5/15/2024 1:29:23 AM ## ----------tan log in ----------
+5/15/2024 1:30:09 AM ## ----------tan log in ----------
+5/15/2024 1:35:06 AM ## ----------nhanh log in ----------
+5/15/2024 1:37:30 AM ## ----------nhanh log in ----------
+5/15/2024 1:37:55 AM ## change account's information
+5/15/2024 1:38:16 AM ## ----------nhanh log in ----------
+5/15/2024 1:45:21 AM ## ----------nhanh log in ----------
+5/15/2024 1:48:11 AM ## ----------nhanh log in ----------
+5/15/2024 1:48:32 AM ## add new Account: a23
+5/15/2024 1:48:54 AM ## delete Account: a23
+5/15/2024 2:14:57 AM ## ----------nhanh log in ----------
+5/15/2024 2:15:55 AM ## ----------nhanh log in ----------
+5/15/2024 2:16:32 AM ## ----------nhanh log in ----------
+5/15/2024 2:16:44 AM ## ----------admin log in ----------
+5/15/2024 2:25:54 AM ## ----------nhanh log in ----------
+5/15/2024 2:29:14 AM ## ----------nhanh log in ----------
+5/15/2024 2:33:54 AM ## ----------nhanh log in ----------
+5/15/2024 2:45:45 AM ## ----------admin log in ----------
+5/15/2024 2:46:04 AM ## ----------nhanh log in ----------
+5/15/2024 2:46:59 AM ## ----------nhanh log in ----------
+5/15/2024 2:50:42 AM ## ----------nhanh log in ----------
+5/15/2024 2:53:43 AM ## ----------admin log in ----------
+5/15/2024 2:54:06 AM ## ----------admin log in ----------
+5/15/2024 2:54:57 AM ## ----------admin log in ----------
+5/15/2024 2:55:08 AM ## ----------nhanh log in ----------
+5/15/2024 3:22:00 AM ## ----------nhanh log in ----------
+5/15/2024 3:22:15 AM ## check new Bill, ID = 58, Total price = 10000
+5/15/2024 3:22:45 AM ## ----------admin log in ----------
+5/15/2024 3:56:19 AM ## ----------admin log in ----------
+5/15/2024 3:57:07 AM ## delete Food: Trà đào 
+5/15/2024 3:57:36 AM ## update Food: Name: Cà phê đá -> Sữa tươi , Category ID: 1 -> 5, Price: 10000 -> 15000
+5/15/2024 3:58:46 AM ## add new Account: phuong
+5/15/2024 3:59:01 AM ## ----------phuong log in ----------
+5/15/2024 3:59:14 AM ## change account's information
+5/15/2024 3:59:24 AM ## ----------phuong log in ----------
+5/15/2024 4:01:41 AM ## ----------phuong log in ----------
+5/15/2024 4:29:27 AM ## ----------admin log in ----------
+5/15/2024 4:39:33 AM ## ----------admin log in ----------
+5/15/2024 6:04:10 AM ## ----------admin log in ----------
+5/15/2024 6:04:24 AM ## ----------nhanh log in ----------
+5/15/2024 6:05:12 AM ## ----------admin log in ----------
+5/15/2024 6:07:15 AM ## ----------admin log in ----------
+5/15/2024 6:08:01 AM ## add new Account: phuong2
+5/15/2024 6:08:34 AM ## ----------admin log in ----------
+5/15/2024 6:09:35 AM ## ----------admin log in ----------
+5/15/2024 6:14:55 AM ## ----------phuong2 log in ----------
+5/15/2024 6:29:29 AM ## ----------phuong2 log in ----------
+5/15/2024 6:32:53 AM ## ----------admin log in ----------
+5/15/2024 6:47:23 AM ## ----------phuong2 log in ----------
+5/15/2024 6:48:44 AM ## change account's information
+5/15/2024 6:48:53 AM ## ----------phuong2 log in ----------
+5/15/2024 6:50:10 AM ## delete Account: phuong
+5/15/2024 7:45:15 AM ## ----------phuong2 log in ----------
+5/15/2024 7:45:27 AM ## ----------tan log in ----------
+5/15/2024 7:46:12 AM ## ----------phuong2 log in ----------
+5/15/2024 7:46:55 AM ## add new Account: phuong3
+5/15/2024 7:48:30 AM ## ----------phuong2 log in ----------
+5/15/2024 7:48:57 AM ## delete Account: phuong3
+5/15/2024 7:49:39 AM ## ----------phuong2 log in ----------
+5/15/2024 7:49:53 AM ## set password for Account: anh
+5/15/2024 7:50:06 AM ## ----------anh log in ----------
+5/15/2024 7:50:11 AM ## ----------tan log in ----------
+5/15/2024 7:50:50 AM ## ----------admin log in ----------
+5/15/2024 7:50:57 AM ## delete Account: phuong2
+5/15/2024 7:51:42 AM ## ----------nhanh log in ----------
+5/15/2024 7:52:41 AM ## change account's information
+5/15/2024 7:53:02 AM ## ----------admin log in ----------
+5/15/2024 7:53:24 AM ## add new Account: phuong2
+5/15/2024 8:02:35 AM ## ----------admin log in ----------
+5/15/2024 8:02:47 AM ## delete Account: phuong2
+5/15/2024 8:08:08 AM ## ----------admin log in ----------
+5/15/2024 8:08:34 AM ## add new Account: phuong
+5/15/2024 8:09:29 AM ## ----------admin log in ----------
+5/15/2024 8:09:37 AM ## set password for Account: phuong
+5/15/2024 8:09:46 AM ## ----------phuong log in ----------
+5/15/2024 8:10:23 AM ## change account's information
+5/15/2024 8:12:13 AM ## ----------phuong log in ----------
+5/15/2024 8:14:46 AM ## ----------phuong log in ----------
+5/15/2024 8:14:55 AM ## change account's information
+5/15/2024 8:14:58 AM ## ----------phuong log in ----------
+5/15/2024 8:46:21 AM ## ----------admin log in ----------
+5/15/2024 3:27:30 PM ## ----------admin log in ----------
+5/15/2024 3:32:13 PM ## check new Bill, ID = 59, Total price = 148000
+5/15/2024 3:35:11 PM ## delete Bill, ID = 58
+5/15/2024 3:36:22 PM ## Chuyển Bàn 22 sang Bàn 24
+5/15/2024 3:36:52 PM ## Chuyển Bàn 22 sang Bàn 17
+5/15/2024 3:37:05 PM ## Chuyển Bàn 24 sang Bàn 17
+5/15/2024 4:27:19 PM ## ----------admin log in ----------

@@ -1,0 +1,86 @@
+5/17/2024 9:03:22 AM ## ----------admin log in ----------
+5/17/2024 9:04:27 AM ## add new Table, ID = 96
+5/17/2024 9:06:43 AM ## ----------admin log in ----------
+5/17/2024 9:07:54 AM ## ----------admin log in ----------
+5/17/2024 9:08:22 AM ## ----------admin log in ----------
+5/17/2024 9:09:41 AM ## ----------admin log in ----------
+5/17/2024 9:13:01 AM ## ----------admin log in ----------
+5/17/2024 9:26:24 AM ## ----------admin log in ----------
+5/17/2024 9:29:23 AM ## ----------admin log in ----------
+5/17/2024 11:51:00 AM ## ----------admin log in ----------
+5/17/2024 11:52:48 AM ## ----------admin log in ----------
+5/17/2024 11:53:49 AM ## add new Category: trà
+5/17/2024 11:53:55 AM ## delete Food: trà
+5/17/2024 11:54:26 AM ## ----------admin log in ----------
+5/17/2024 12:13:09 PM ## ----------admin log in ----------
+5/17/2024 12:19:50 PM ## ----------admin log in ----------
+5/17/2024 12:27:01 PM ## ----------admin log in ----------
+5/17/2024 1:00:28 PM ## ----------admin log in ----------
+5/17/2024 1:01:20 PM ## ----------admin log in ----------
+5/17/2024 1:12:05 PM ## ----------admin log in ----------
+5/17/2024 1:12:30 PM ## check new Bill, ID = 60, Total price = 24000
+5/17/2024 1:14:01 PM ## check new Bill, ID = 61, Total price = 44000
+5/17/2024 1:14:28 PM ## ----------admin log in ----------
+5/17/2024 1:14:58 PM ## ----------admin log in ----------
+5/17/2024 1:23:28 PM ## ----------admin log in ----------
+5/17/2024 1:23:48 PM ## change account's information
+5/17/2024 1:24:15 PM ## check new Bill, ID = 63, Total price = 19800
+5/17/2024 1:40:58 PM ## ----------admin log in ----------
+5/17/2024 2:01:55 PM ## ----------admin log in ----------
+5/17/2024 2:04:15 PM ## ----------admin log in ----------
+5/17/2024 2:12:21 PM ## ----------admin log in ----------
+5/17/2024 2:12:52 PM ## ----------admin log in ----------
+5/17/2024 2:14:15 PM ## ----------admin log in ----------
+5/17/2024 2:15:39 PM ## ----------nhanh log in ----------
+5/17/2024 2:15:42 PM ## ----------nhanh log in ----------
+5/17/2024 2:15:44 PM ## ----------nhanh log in ----------
+5/17/2024 2:15:45 PM ## ----------nhanh log in ----------
+5/17/2024 2:15:47 PM ## ----------nhanh log in ----------
+5/17/2024 2:16:27 PM ## ----------nhanh log in ----------
+5/17/2024 2:19:47 PM ## ----------admin log in ----------
+5/17/2024 2:23:10 PM ## ----------admin log in ----------
+5/17/2024 2:38:26 PM ## ----------admin log in ----------
+5/17/2024 2:43:38 PM ## ----------admin log in ----------
+5/17/2024 3:07:04 PM ## ----------admin log in ----------
+5/17/2024 7:28:37 PM ## ----------admin log in ----------
+5/17/2024 7:29:19 PM ## change account's information
+5/17/2024 7:29:27 PM ## ----------admin log in ----------
+5/17/2024 7:31:01 PM ## Chuyển Bàn 3 sang Bàn 9
+5/17/2024 7:31:04 PM ## check new Bill, ID = 64, Total price = 31450
+5/17/2024 7:32:41 PM ## ----------admin log in ----------
+5/17/2024 7:33:22 PM ## update Category:  -> Sữa tươi
+5/17/2024 7:33:56 PM ## add new Category: Kem
+5/17/2024 7:35:12 PM ## ----------admin log in ----------
+5/17/2024 7:35:34 PM ## delete Food: Kem
+5/17/2024 7:35:49 PM ## update Category:  -> Sữa tươi
+5/17/2024 7:36:00 PM ## add new Category: Kem
+5/17/2024 7:36:49 PM ## add new Food: Kem trứng
+5/17/2024 7:37:17 PM ## update Food: Name: Cà phê đá -> Kem trứng, Category ID: 1 -> 45, Price: 10000 -> 12000
+5/17/2024 7:39:36 PM ## ----------admin log in ----------
+5/17/2024 7:39:49 PM ## check new Bill, ID = 65, Total price = 10000
+5/17/2024 7:42:30 PM ## ----------admin log in ----------
+5/17/2024 7:43:27 PM ## ----------admin log in ----------
+5/17/2024 7:51:05 PM ## ----------admin log in ----------
+5/17/2024 7:51:32 PM ## set password for Account: tan
+5/17/2024 7:51:47 PM ## set password for Account: phuong
+5/17/2024 8:02:48 PM ## ----------nhanh log in ----------
+5/17/2024 8:07:38 PM ## ----------tan log in ----------
+5/17/2024 8:07:57 PM ## ----------anh log in ----------
+5/17/2024 8:08:26 PM ## ----------phuong log in ----------
+5/17/2024 8:15:26 PM ## ----------admin log in ----------
+5/17/2024 8:16:04 PM ## Chuyển Bàn 22 sang Bàn 31
+5/17/2024 8:22:17 PM ## ----------admin log in ----------
+5/17/2024 8:23:15 PM ## Chuyển Bàn 24 sang Bàn 22
+5/17/2024 8:24:35 PM ## ----------admin log in ----------
+5/17/2024 8:24:53 PM ## check new Bill, ID = 67, Total price = 40000
+5/17/2024 8:25:04 PM ## check new Bill, ID = 66, Total price = 20000
+5/17/2024 8:25:46 PM ## Chuyển Bàn 24 sang Bàn 20
+5/17/2024 8:30:33 PM ## ----------admin log in ----------
+5/17/2024 8:30:46 PM ## check new Bill, ID = 8, Total price = 20000
+5/17/2024 8:31:14 PM ## Chuyển Bàn 18 sang Bàn 24
+5/17/2024 8:31:52 PM ## Chuyển Bàn 18 sang Bàn 20
+5/17/2024 8:32:13 PM ## Chuyển Bàn 20 sang Bàn 24
+5/17/2024 8:35:56 PM ## ----------admin log in ----------
+5/17/2024 8:36:17 PM ## Chuyển Bàn 20 sang Bàn 19
+5/17/2024 8:36:35 PM ## Chuyển Bàn 19 sang Bàn 24
+5/17/2024 8:36:58 PM ## check new Bill, ID = 68, Total price = 90000

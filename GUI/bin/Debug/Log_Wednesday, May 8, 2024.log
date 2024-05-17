@@ -1,0 +1,85 @@
+5/8/2024 12:06:29 AM ## ----------nhanh log in ----------
+5/8/2024 12:07:04 AM ## add new Table, ID = 16
+5/8/2024 12:23:39 AM ## ----------nhanh log in ----------
+5/8/2024 12:24:06 AM ## add new Category: Trà sữa kem 
+5/8/2024 12:24:35 AM ## ----------nhanh log in ----------
+5/8/2024 12:24:56 AM ## add new Category: Bánh tráng
+5/8/2024 12:25:10 AM ## delete Food: Bánh tráng
+5/8/2024 12:25:21 AM ## update Category:  -> Trà sữa kem muối
+5/8/2024 12:27:27 AM ## ----------nhanh log in ----------
+5/8/2024 12:27:39 AM ## delete Food: Trà sữa kem 
+5/8/2024 12:27:42 AM ## delete Food: Trà sữa kem muối
+5/8/2024 12:27:55 AM ## add new Category: Trà
+5/8/2024 7:31:50 AM ## ----------nhanh log in ----------
+5/8/2024 7:36:32 AM ## ----------nhanh log in ----------
+5/8/2024 7:37:06 AM ## ----------nhanh log in ----------
+5/8/2024 7:58:32 AM ## ----------nhanh log in ----------
+5/8/2024 7:58:52 AM ## add new Category: Tra
+5/8/2024 7:58:55 AM ## add new Category: Tra
+5/8/2024 7:58:56 AM ## add new Category: Tra
+5/8/2024 7:58:57 AM ## add new Category: Tra
+5/8/2024 7:58:57 AM ## add new Category: Tra
+5/8/2024 7:58:57 AM ## add new Category: Tra
+5/8/2024 7:58:57 AM ## add new Category: Tra
+5/8/2024 7:58:58 AM ## add new Category: Tra
+5/8/2024 7:58:58 AM ## add new Category: Tra
+5/8/2024 7:58:59 AM ## add new Category: Tra
+5/8/2024 7:58:59 AM ## add new Category: Tra
+5/8/2024 7:58:59 AM ## add new Category: Tra
+5/8/2024 7:58:59 AM ## add new Category: Tra
+5/8/2024 7:59:00 AM ## add new Category: Tra
+5/8/2024 7:59:02 AM ## add new Category: Tra
+5/8/2024 7:59:03 AM ## add new Category: Tra
+5/8/2024 7:59:03 AM ## add new Category: Tra
+5/8/2024 7:59:03 AM ## add new Category: Tra
+5/8/2024 8:03:34 AM ## ----------nhanh log in ----------
+5/8/2024 8:04:08 AM ## add new Category: TRà
+5/8/2024 8:04:14 AM ## delete Food: TRà
+5/8/2024 8:11:51 AM ## ----------nhanh log in ----------
+5/8/2024 8:12:06 AM ## add new Category: Trà
+5/8/2024 8:15:24 AM ## ----------nhanh log in ----------
+5/8/2024 8:15:32 AM ## delete Food: Trà
+5/8/2024 8:17:48 AM ## ----------nhanh log in ----------
+5/8/2024 8:18:01 AM ## add new Category: Trà
+5/8/2024 8:18:07 AM ## update Category:  -> Cà phê
+5/8/2024 8:18:18 AM ## update Category:  -> Trà hồng đào
+5/8/2024 8:18:18 AM ## update Category:  -> Cà phê
+5/8/2024 8:19:10 AM ## add new Category: Kem
+5/8/2024 8:19:43 AM ## update Category:  -> Kem ngọt
+5/8/2024 8:19:52 AM ## update Category:  -> Kem
+5/8/2024 8:40:22 AM ## ----------nhanh log in ----------
+5/8/2024 12:58:15 PM ## ----------nhanh log in ----------
+5/8/2024 1:08:38 PM ## ----------nhanh log in ----------
+5/8/2024 1:11:42 PM ## ----------nhanh log in ----------
+5/8/2024 1:11:56 PM ## add new Food: traf
+5/8/2024 1:12:25 PM ## delete Food: traf
+5/8/2024 1:18:39 PM ## ----------nhanh log in ----------
+5/8/2024 1:19:07 PM ## add new Food: Traf
+5/8/2024 1:44:08 PM ## ----------nhanh log in ----------
+5/8/2024 1:44:34 PM ## update Food: Name: Cà phê đá -> Trà chanh, Category ID: 1 -> 40, Price: 10000 -> 12000
+5/8/2024 1:44:52 PM ## delete Food: Trà chanh
+5/8/2024 1:45:29 PM ## delete Table, ID = 92
+5/8/2024 1:45:57 PM ## add new Table, ID = 93
+5/8/2024 1:46:06 PM ## delete Table, ID = 93
+5/8/2024 1:46:17 PM ## add new Table, ID = 94
+5/8/2024 1:46:23 PM ## delete Table, ID = 94
+5/8/2024 1:47:45 PM ## ----------nhanh log in ----------
+5/8/2024 1:48:07 PM ## update Food: Name: Cà phê đá -> Mì cay hải sản, Category ID: 1 -> 2, Price: 10000 -> 30000
+5/8/2024 1:57:32 PM ## ----------nhanh log in ----------
+5/8/2024 10:54:31 PM ## ----------nhanh log in ----------
+5/8/2024 10:54:40 PM ## delete Food: Kem
+5/8/2024 10:54:51 PM ## update Category:  -> Trà 
+5/8/2024 10:55:06 PM ## add new Category: Sữa
+5/8/2024 10:56:40 PM ## ----------nhanh log in ----------
+5/8/2024 10:57:48 PM ## ----------nhanh log in ----------
+5/8/2024 10:58:16 PM ## update Food: Name: Cà phê đá -> Mì cay hải sản, Category ID: 1 -> 1, Price: 10000 -> 30000
+5/8/2024 10:58:29 PM ## update Food: Name: Cà phê đá -> Mì cay hải sản, Category ID: 1 -> 2, Price: 10000 -> 30000
+5/8/2024 11:08:44 PM ## ----------nhanh log in ----------
+5/8/2024 11:13:58 PM ## ----------nhanh log in ----------
+5/8/2024 11:15:07 PM ## add new Food: Trà chanh
+5/8/2024 11:19:13 PM ## ----------nhanh log in ----------
+5/8/2024 11:19:56 PM ## update Food: Name: Cà phê đá -> Macchiato, Category ID: 1 -> 42, Price: 10000 -> 25000
+5/8/2024 11:20:13 PM ## update Food: Name: Cà phê đá -> Macchiato, Category ID: 1 -> 5, Price: 10000 -> 25000
+5/8/2024 11:21:08 PM ## ----------nhanh log in ----------
+5/8/2024 11:36:13 PM ## ----------nhanh log in ----------
+5/8/2024 11:38:48 PM ## ----------nhanh log in ----------
