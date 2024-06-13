@@ -45,7 +45,18 @@ namespace DAO
             }
             return -1;
         }
+        public DataTable GetUnCheckBillIDByTableID2(int ID)
+        {
+            try
+                {
+                  return DataProvider.Instance.ExecuteQuery("GetUnCheckBillIDByTableID2 @ID", new object[] { ID });
 
+                }
+            catch (Exception ex)
+                {
+                throw ex;
+                }
+        }
         public void InsertBill(int tableID)
         {
             try
