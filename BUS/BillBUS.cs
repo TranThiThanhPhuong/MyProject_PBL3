@@ -33,7 +33,17 @@ namespace BUS
                 throw ex;
             }
         }
-
+        public DataTable GetUnCheckBillIDByTableID2(int id)
+        {
+            try
+          {
+                return BillDAO.Instance.GetUnCheckBillIDByTableID2(id);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
         public void InsertBill(int tableID)
         {
             try
