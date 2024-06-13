@@ -281,7 +281,11 @@ CREATE PROC GetUnCheckBillIDByTableID
 AS
 	SELECT * FROM dbo.Bill WHERE TableID = @TableID AND Status = 0
 GO
-
+CREATE PROC GetUnCheckBillIDByTableID2
+@ID INT
+AS
+	SELECT * FROM dbo.Bill WHERE ID = @ID 
+GO
 CREATE PROC USP_GetListBillByDay
 @FromDate DATE, @ToDate DATE
 AS
@@ -302,7 +306,7 @@ BEGIN
 	WHERE b.ID = @BillID;
 END;
 GO
-//exec USP_GetListBillByBillID  @BillID = 63
+
 CREATE PROC USP_DeleteBill
 @ID INT
 AS
